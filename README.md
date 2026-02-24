@@ -1,9 +1,13 @@
 # AI-Prompt-Battle_Suryansh-Singh
+
 name : Suryansh Singh
+
 Roll no.: 30314802724
+
 website link: https://suryansh7982.github.io/AI-Prompt-Battle_Suryansh-Singh/
 
 promps used:
+
 1)make a website with css and html both separate files about a food ordering company with the name quickbits  with a blue nav bar and now scrolling down a bit make a row of soft boxes with food items like cake milkshake  burger etc... with the price in Rs and a order now button under the images of the food items 
 
 2)make the website look more appetizing and in the navbar add offer which takes me down in the same page and shows 4-5 random items with a discount, when i click contact take me to the end of the page on the footer with number email address and a option to write our own email there
